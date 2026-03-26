@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 
-[Grocy Demo](assets/demo.gif) -->
+![Grocy Demo](assets/demo.gif)
 
 ---
 
