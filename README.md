@@ -17,8 +17,8 @@
 
 ## 📸 Preview
 
-<!-- Add a GIF here: record ~30s of usage, upload to /assets/demo.gif -->
-<!-- ![Grocy Demo](assets/demo.gif) -->
+
+[Grocy Demo](assets/demo.gif) -->
 
 ---
 
