@@ -102,7 +102,7 @@ open index.html   # or just double-click it
 ## 👤 Author
 
 **Eylon Hotam**
-Developed as a personal technical challenge between semesters at the **Technion – Israel Institute of Technology**.
+Developed as a personal technical challenge between semesters in my first year at the **Technion – Israel Institute of Technology**.
 
 ---
 
