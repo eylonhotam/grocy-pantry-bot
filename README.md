@@ -51,8 +51,8 @@ grocy-pantry-bot/
 
 ## ⚙️ How It Works
 
-The parser uses a **finite-state machine (FSM)** to handle multi-turn interactions. When a new item is detected, it moves through `IDLE → WAIT_CAT → WAIT_THR` states to onboard the item before returning to idle:
-
+The parser uses a **Mealy finite-state machine (FSM)** to handle multi-turn interactions. When a new item is detected, it moves through `IDLE → WAIT_CAT → WAIT_THR` states, based both on the current state and the inputs, to onboard the item before returning to idle:
+![FSM Design](assets/fsm-design.png)
 ```
 User: "bought 5 garlic"
   → Parser: item not found → state = WAIT_CAT
